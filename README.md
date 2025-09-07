@@ -86,6 +86,7 @@ Este projeto foi desenvolvido como parte do curso da Alura para fins educacionai
 
 ---
 
-**Desenvolvido como parte do curso Alura** 🎓
+**Desenvolvido como parte do curso Alura - Ismael** 🎓
 
 ![Alura](https://img.shields.io/badge/Feito_com-💙-blue)
+
